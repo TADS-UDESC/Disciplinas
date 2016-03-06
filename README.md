@@ -1,2 +1,2 @@
-# Diciplinas
-Este repositório contem todas informacoes de todas as disciplinas do curso de tads na udesc
+# Disciplinas
+Este repositório contém informações das disciplinas de TADS na UDESC
