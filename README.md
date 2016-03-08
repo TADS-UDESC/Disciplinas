@@ -10,3 +10,11 @@ O objetivo deste repositório é centralizar o máximo de informações possíve
 * ALGA001 - Geometria Analítica e Álgebra linear
 * AGT0001 - Algoritmos
 * TGA0002 - Teoria Geral da Administração
+
+### 2ª fase
+
+* AOC0002 - Arquitetura e Organização de Computadores
+* EST0006 - Probabilidade e Estatística
+* LPG0002 - Linguagem de Programação
+* MAT0002 - Matemática Financeira
+* TGS0002 - Teoria Geral de Sistemas
