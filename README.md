@@ -7,7 +7,7 @@ O objetivo deste repositório é centralizar o máximo de informações possíve
 
 * MCI0001 - Metodologia Científica
 * CDI0001 - Cálculo Diferencial e Integral I
-* ALGA001 - Geometria Analítica e Álgebra linear
+* ALGA0010 - Geometria Analítica e Álgebra linear
 * AGT0001 - Algoritmos
 * TGA0002 - Teoria Geral da Administração
 
