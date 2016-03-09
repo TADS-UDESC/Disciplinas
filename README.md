@@ -1,6 +1,8 @@
 #Disciplinas
 Este repositório contém informações das disciplinas de TADS na UDESC
 
+###1ª fase
+
 [<img src="https://img.shields.io/badge/AGT0001-Algoritmos-yellow.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/AGT0001) </br>
 [<img src="https://img.shields.io/badge/ALGA001-Geometria%20Anal%C3%ADtica%20e%20%C3%81lgebra%20Linear-yellow.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/ALGA001) </br>
 [<img src="https://img.shields.io/badge/CDI0001-C%C3%A1lculo%20Diferencial%20e%20Integral%20I-yellow.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/CDI0001) </br>
