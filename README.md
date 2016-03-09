@@ -16,3 +16,11 @@ Este repositório contém informações das disciplinas de TADS na UDESC
 [<img src="https://img.shields.io/badge/LPG0002-Linguagem%20de%20Programa%C3%A7%C3%A3o-brightgreen.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/LPG0002) </br>
 [<img src="https://img.shields.io/badge/MAT0002-Matem%C3%A1tica%20Financeira-brightgreen.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/MAT0002) </br>
 [<img src="https://img.shields.io/badge/TGS0002-Teoria%20Geral%20de%20Sistemas-brightgreen.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/TGS0002) </br>
+
+###3ª fase
+
+[<img src="https://img.shields.io/badge/ANA1001-An%C3%A1lise%20de%20Sistemas%20e%20de%20Requisitos%20de%20Software%20I-orange.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/ANA1001) </br>
+[<img src="https://img.shields.io/badge/EDA0001-Estrutura%20de%20Dados-orange.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/EDA0001) </br>
+[<img src="https://img.shields.io/badge/FSI0002-Fundamentos%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o-orange.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/FSI0002) </br>
+[<img src="https://img.shields.io/badge/GFC0001-Gest%C3%A3o%20Financeira%20e%20de%20Custos-orange.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/GFC0001) </br>
+[<img src="https://img.shields.io/badge/POO0001-Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos-orange.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/POO0001) </br>
