@@ -1,4 +1,4 @@
-#Disciplinas
+#Disciplinas ![TADS UDESC](https://img.shields.io/badge/TADS-UDESC-brightgreen.svg)
 Este repositório contém informações das disciplinas de TADS na UDESC
 
 ###1ª fase
