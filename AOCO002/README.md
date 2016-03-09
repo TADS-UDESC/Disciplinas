@@ -1,0 +1,1 @@
+#Arquitetura e Organização de Computadores [<img src="https://img.shields.io/badge/AOC0002-Arquitetura%20e%20Organiza%C3%A7%C3%A3o%20de%20Computadores-brightgreen.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/AOC0002)

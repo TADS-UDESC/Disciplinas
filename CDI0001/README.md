@@ -1,0 +1,1 @@
+#Cálculo Diferencial e Integral I [<img src="https://img.shields.io/badge/CDI0001-C%C3%A1lculo%20Diferencial%20e%20Integral%20I-yellow.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/CDI0001)

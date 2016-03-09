@@ -1,0 +1,1 @@
+#Geometria Analítica e Álgebra Linear [<img src="https://img.shields.io/badge/ALGA001-Geometria%20Anal%C3%ADtica%20e%20%C3%81lgebra%20Linear-yellow.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/ALGA001) 
