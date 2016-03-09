@@ -1,0 +1,1 @@
+#Fundamentos de Sistemas de Informação [<img src="https://img.shields.io/badge/FSI0002-Fundamentos%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o-orange.svg">](https://github.com/TADS-UDESC/disciplinas/tree/master/FSI0002)
